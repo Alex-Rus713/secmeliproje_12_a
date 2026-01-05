@@ -1,7 +1,7 @@
 # 🎮 GameVerse - Game Information & Community Platform
 
 A full-stack web application for discovering games, reading reviews, and connecting with the gaming community. Built with Spring Boot, React, TypeScript, PostgreSQL, and Redis.
-
+host of the project 156.67.31.85
 ## 🏗️ Architecture
 
 ### Backend
